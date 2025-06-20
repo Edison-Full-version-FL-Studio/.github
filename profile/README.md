@@ -43,7 +43,7 @@ Unlock the full version of Edison in FL Studio. Record, edit, slice, and process
 ### 🖼 Preview
 
 Edison plugin running inside FL Studio interface  
-![Screenshot](https://cdn.rekkerd.org/wp-content/uploads/2021/05/FL-Studio-Edison.jpg)  
+![Screenshot](https://d29rinwu2hi5i3.cloudfront.net/article_media/29f88c92-b216-42be-a1ec-74d81ca20cb0/w768/01_add_audio.jpg)  
 *Edit and process audio with studio-level precision*
 
 ---
